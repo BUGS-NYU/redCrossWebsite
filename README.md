@@ -9,9 +9,19 @@ Working on this project is a great way to start out in front-end development and
 ### Project Goals
 * Learn or practice basic web development
 * Work in a collaborative and communicative environment
-* Create meaningful working
+* Create meaningful work
 * Practice [code ownership](http://swreflections.blogspot.com/2013/04/code-ownership-who-should-own-code.html)
 * Have fun and learn a lot!
+
+### Progress Report
+1. ~~Set up GitHub Repo~~
+2. ~~Introduce Project to Current Members~~
+3. ~~Develop a Resources Document~~
+4. Wireframe Site Outline (Create or Receive from Client)
+5. Submit Pull Requests to Work on Project
+6. Local Development Using Resources As Guide
+7. Use Git Version Control to Submit and Track Contributions
+8. Merge Everything
 
 ### About BUGS
 NYU BUGS is a club dedicated to teaching and practicing the values of open source software development. We host tech talks, engineering workshops, and work on semester-long projects designed to give you practice working with a variety of industry-standard skills. Come hang!
